@@ -1,4 +1,5 @@
 let grid;
+
 function setup() {
   createCanvas(400, 400);
 	grid = [
